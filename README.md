@@ -1,16 +1,16 @@
-## Hi there 👋
+<div align="center">
+  <h1>
+    <a href="#" style="text-decoration: none;">
+      <span style="display: inline-block; font-size: 2em; color: red; animation: blink 1s infinite;">Wincent</span>
+    </a>
+  </h1>
+  
+  <img src="image.jpg" alt="Profile Photo" width="300px">
+</div>
 
-<!--
-**corjuwarx/corjuwarx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<style>
+  @keyframes blink {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0; }
+  }
+</style>
