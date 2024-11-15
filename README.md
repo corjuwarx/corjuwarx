@@ -4,7 +4,6 @@
       <span style="display: inline-block; font-size: 2em; color: red; animation: blink 1s infinite;">Wincent</span>
     </a>
   </h1>
-  
-  <img src="image.jpeg" alt="Profile Photo" width="600px" height="600">
-</div>
 
+  <img src="image.jpeg" alt="Profile Photo" width="1000">
+</div>
