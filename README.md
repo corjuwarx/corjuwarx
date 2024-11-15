@@ -5,6 +5,6 @@
     </a>
   </h1>
   
-  <img src="image.jpeg" alt="Profile Photo" width="1000px" height="600">
+  <img src="image.jpeg" alt="Profile Photo" width="600px" height="600">
 </div>
 
