@@ -1,16 +1,15 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**corjuwarx/corjuwarx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00D1FF&center=true&vCenter=true&width=435&lines=C-O-R-J-U-W-A-R-X" alt="Typing SVG" />
+
+<br/>
+
+<a href="https://instagram.com/corjuwarx" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+
+</div>
+
+
